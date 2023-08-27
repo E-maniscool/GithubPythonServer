@@ -1,1 +1,1 @@
-var (p1) 200(p2) 100 end! var (p3) 100 end!
+var (p1) 200 (p2) 100 end! var (p3) 100 end!
