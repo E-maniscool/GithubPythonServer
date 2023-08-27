@@ -1,1 +1,1 @@
-player 1 health var 100 end! player 2 health var 100 end! player 3 health var 100 end!
+var /p1\ 100 end! var /p2\ 100 end! var /p3\ 100 end!
