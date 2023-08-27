@@ -1,3 +1,1 @@
-start! player 1 health var 100 end!
-start! player 2 health var 100 end!
-start! player 3 health var 100 end!
+This is the updated content of the file.
