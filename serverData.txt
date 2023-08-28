@@ -1,1 +1,1 @@
-var (p1h) 6 end! (p2h) 0 end!
+var (p1h) 600 end! (p2h) 0 end!
