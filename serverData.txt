@@ -1,1 +1,1 @@
-var (p1) 300 end! (p2) 100 end! var (p3) 100 end!
+var (p1) 300 end! (p2) 147 end! nd!
