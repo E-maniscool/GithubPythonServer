@@ -1,1 +1,1 @@
-var (p1h) 1 end! (p2h) 0 end!
+var (p1h) 0 end! (p2h) 0 end!
